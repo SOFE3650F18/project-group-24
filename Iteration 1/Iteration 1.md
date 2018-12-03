@@ -1,8 +1,8 @@
-# Iteration 1 hey
+# Iteration 1
 ### Step 1 - Review Inputs
 | Category | Details |
 |---|---|
-| Design Purpose |  |
+| Design Purpose | This is a greenfield system from a mature domain |
 | Primary Functional Requiremenst |  |
 #### Quality Attribute scenarios
 
