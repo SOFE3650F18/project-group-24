@@ -3,9 +3,9 @@
 | Category | Details |
 |---|---|
 | Design Purpose | This is a greenfield system from a mature domain |
-| Primary Functional Requiremenst |  |
+| Primary Functional Requiremenst | UC-1, UC-2, UC-4, UC-5 |
 #### Quality Attribute scenarios
-
+QA-1, QA-2, QA-3 are included as drivers
 #### Constraints
 All Constraints listed in Assignment2/Con.md are included as drivers
 #### Architectural Concerns
