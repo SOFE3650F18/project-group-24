@@ -31,4 +31,5 @@ UC-6
 
 QA-6 Scalability
 Sudden load increase threatening systems performance. The system will adjust and allocate more servers to handle the load. 
+
 All
