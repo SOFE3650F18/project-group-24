@@ -6,6 +6,7 @@
 | Primary Functional Requiremenst | UC-1, UC-2, UC-4, UC-5 |
 #### Quality Attribute scenarios
 |Scenario ID| Importance to User| Diccuulty of Implementation|
+|---|---|---|
 |QA-1|High|Easy|
 |QA-2|High|Hard|
 |QA-3|High|Medium|
