@@ -47,3 +47,6 @@ The element to refine is the entire CMS system
 
 
 ### Step 7 - Perform Analysis of current Iteration
+
+|Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
+|---|---|---|---|
