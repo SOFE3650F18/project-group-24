@@ -1,7 +1,10 @@
-#Iteration 1
-
+# Iteration 1
 ### Step 1 - Review Inputs
+#### Quality Attribute scenarios
 
+#### Constraints
+All Constraints listed in Assignment2/Con.md are included as drivers
+#### Architectural Concerns
 
 ### Step 2 - Establish Iteration Goal by Selecting Drivers
 
