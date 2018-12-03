@@ -11,6 +11,7 @@ All Constraints listed in Assignment2/Con.md are included as drivers
 #### Architectural Concerns
 All architectural concerns are included as drivers
 ### Step 2 - Establish Iteration Goal by Selecting Drivers
+The iteration goal is to achieve CNR-1
 
 
 ### Step 3 - Choose one or more Elements to refine
