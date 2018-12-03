@@ -29,6 +29,9 @@ The element to refine is the entire CMS system
 ### Step 4 - Choose one or more design concepts to work with
 | Design Decisions and Location | Rationale |
 |---|---|
+| Logically structure the client part of the system using Web application |  |
+| Logically structure the server part of the system using service application |  |
+| Physically structure the application using the three tiered deployment pattern |  |
 
 
 ### Step 5 - Instantiate Architectural Elements, Allocate Responsibilities
