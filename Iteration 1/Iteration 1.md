@@ -12,7 +12,7 @@ All Constraints listed in Assignment2/Con.md are included as drivers
 All architectural concerns are included as drivers
 ### Step 2 - Establish Iteration Goal by Selecting Drivers
 The iteration goal is to achieve CNR-1
-
+![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Context%20Diagram%20for%20CM%20system.PNG)
 
 ### Step 3 - Choose one or more Elements to refine
 
