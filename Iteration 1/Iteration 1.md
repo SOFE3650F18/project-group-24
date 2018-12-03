@@ -35,6 +35,12 @@ The element to refine is the entire CMS system
 
 
 ### Step 5 - Instantiate Architectural Elements, Allocate Responsibilities
+| Design Decisions and Location | Rationale |
+|---|---|
+| |  |
+| |  |
+| |  |
+
 
 
 ### Step 6 - Sketch Views and record design decisions
