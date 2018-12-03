@@ -27,6 +27,8 @@ The iteration goal is to achieve CNR-1
 The element to refine is the entire CMS system
 
 ### Step 4 - Choose one or more design concepts to work with
+| Design Decisions and Location | Rationale |
+|---|---|
 
 
 ### Step 5 - Instantiate Architectural Elements, Allocate Responsibilities
