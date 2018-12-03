@@ -24,7 +24,7 @@ The iteration goal is to achieve CNR-1
 ![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Context%20Diagram%20for%20CM%20system.PNG)
 
 ### Step 3 - Choose one or more Elements to refine
-
+The element to refine is the entire CMS system
 
 ### Step 4 - Choose one or more design concepts to work with
 
