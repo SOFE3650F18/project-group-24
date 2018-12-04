@@ -24,26 +24,24 @@ The iteration goal is to achieve CNR-1
 ![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Context%20Diagram%20for%20CM%20system.PNG)
 
 ### Step 3 - Choose one or more Elements to refine
-The element to refine is the entire CMS system
+The element to refine is the entire CMS system, this is due to the fact that the system to be developed is a greenfield system
 
 ### Step 4 - Choose one or more design concepts to work with
 | Design Decisions and Location | Rationale |
 |---|---|
 | Logically structure the client part of the system using Web application |  |
-| Logically structure the server part of the system using service application |  |
-| Physically structure the application using the three tiered deployment pattern |  |
-
+| Logically structure the server part of the system using service application | This was chosen due to the fact that the alternatives would not meet the requirements when it comes to service applications  |
+| Physically structure the application using the three tiered deployment pattern | Due to the fact that the system involves a user accessing a browser and through that to access a data base it was found that the three tier deployment pattern is ideal |
 
 ### Step 5 - Instantiate Architectural Elements, Allocate Responsibilities
 | Design Decisions and Location | Rationale |
 |---|---|
-| |  |
-| |  |
-| |  |
-
-
+| Create a user interface | This will help the completion of QA-1 |
+| Create a module dedicated to accessing time servers | This will help the completion of QA-3 |
+| Create a database to store course information | This will help the completion of QA-1 and QA-2 |
 
 ### Step 6 - Sketch Views and record design decisions
+![Views](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Incomplete.png)
 
 
 ### Step 7 - Perform Analysis of current Iteration
