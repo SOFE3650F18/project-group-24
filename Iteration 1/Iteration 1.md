@@ -29,7 +29,7 @@ The element to refine is the entire CMS system, this is due to the fact that the
 ### Step 4 - Choose one or more design concepts to work with
 | Design Decisions and Location | Rationale |
 |---|---|
-| Logically structure the client part of the system using Web application |  |
+| Logically structure the client part of the system using Web application |This was chosen due to the fact that web applications are easier to develop, easily accessible on multiple devices, scalable and maintainble  |
 | Logically structure the server part of the system using service application | This was chosen due to the fact that the alternatives would not meet the requirements when it comes to service applications  |
 | Physically structure the application using the three tiered deployment pattern | Due to the fact that the system involves a user accessing a browser and through that to access a data base it was found that the three tier deployment pattern is ideal |
 
