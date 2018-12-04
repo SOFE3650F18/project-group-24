@@ -41,7 +41,7 @@ The element to refine is the entire CMS system, this is due to the fact that the
 | Create a database to store course information | This will help the completion of QA-1 and QA-2 |
 
 ### Step 6 - Sketch Views and record design decisions
-![Views](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Incomplete.png)
+![Views](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Layer.png)
 
 
 ### Step 7 - Perform Analysis of current Iteration
