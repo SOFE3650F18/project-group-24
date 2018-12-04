@@ -45,22 +45,21 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 | Element | Responsibility |
 |---|---|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Browser||
+|Browser Process Module||
+|Login CS||
+|Search CS||
+|Create CS||
+|Communcation Moudle||
+|Service Interface||
+|Login SS||
+|Search SS||
+|Create SS||
+|Access Module||
+|Time Server Access Module||
+|Secruity||
+|Operation Management Module||
+|Communication Module||
 
 ### Step 7 - Perform Analysis of current Iteration
 
