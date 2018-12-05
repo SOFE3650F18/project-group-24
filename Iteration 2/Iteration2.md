@@ -17,9 +17,9 @@ The elements of system that this iteration will refine are the modules identifie
 |Design Decisions and Location|Rationale and Assumptions|
 |---|---|
 |Create a Domain Model for the application| Creating a domain model will illustrate and identifity the important entities and relastionships in the system |
-|Identifiy domain objects of function requirements||
-|||
-|||
+|Identifiy domain objects of function requirements| Each distinct Functional object will be encapsulated in a domain object|
+| Convert Domain Objects into Components | DOmain objects represent a set of Functional objects |
+|  ||
 
 ### Step 5 - Instantiate the Architectural Elements, Allocate Responsibilities and Define Interfaces
 |Design Decisions and Location|Rationale|
