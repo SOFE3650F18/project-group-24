@@ -89,10 +89,10 @@ The element to refine is the entire CMS system, this is due to the fact that the
 |  | QA-2 |  |  |
 |  | QA-3 |  |  |
 |  | CON-1 |  |  |
-| CON-2 |  |  |  |
+| CON-2 |  |  | No Relevant Decision was made  |
 |  | CON-3 |  |  |
-| CON-4 |  |  |  |
-| CON-5 |  |  |  |
+| CON-4 |  |  | No Relevant Decision was made |
+| CON-5 |  |  | No Relevant Decision was made |
 |  |  | CRN-1 |  |
 |  | CRN-2 |  |  |
-| CRN-3 |  |  |  |
+| CRN-3 |  |  | No Relevant Decision was made |
