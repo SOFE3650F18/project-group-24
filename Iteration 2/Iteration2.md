@@ -11,11 +11,13 @@ The primary Use Cases will be considered in this iteration:
   
 ### Step 3 - Choose One of More Elements of the System to Refine
 
+The elements of system that this iteration will refine are the modules identified in the reference architectures in the previous interation
+
 ### Step 4 - Choose One of More Design Concepts That Satisfy the Selected Drivers
 |Design Decisions and Location|Rationale and Assumptions|
 |---|---|
-|||
-|||
+|Create a Domain Model for the application| Creating a domain model will illustrate and identifity the important entities and relastionships in the system |
+|Identifiy domain objects of function requirements||
 |||
 |||
 
