@@ -85,14 +85,14 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
-|  | UC-1 |  |  |
-|  | UC-2 |  |  |
-|  | UC-4 |  |  |
-|  | UC-5 |  |  |
+|  | UC-1 |  | Selected reference architecture provide the modules to support this functionality |
+|  | UC-2 |  | Selected reference architecture provide the modules to support this functionality |
+|  | UC-4 |  | Selected reference architecture provide the modules to support this functionality  |
+|  | UC-5 |  | Selected reference architecture provide the modules to support this functionality |
 |  | QA-1 |  |  |
 |  | QA-2 |  |  |
 |  | QA-3 |  |  |
-|  | CON-1 |  |  |
+|  | CON-1 |  | Structuring the system with the three tier architecure will allow developers to adapt,update, and maintain without impacting other areas of the application    |
 | CON-2 |  |  | No Relevant Decision was made  |
 |  | CON-3 |  |  |
 | CON-4 |  |  | No Relevant Decision was made |
