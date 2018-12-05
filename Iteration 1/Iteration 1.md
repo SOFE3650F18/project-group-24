@@ -83,6 +83,8 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 ### Step 7 - Perform Analysis of current Iteration
 
+The Following Table summarizes the design procress in this iteration
+
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
 |  | UC-1 |  | Selected reference architecture provide the modules to support this functionality |
