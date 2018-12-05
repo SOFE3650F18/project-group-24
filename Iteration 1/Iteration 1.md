@@ -85,6 +85,10 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
+|  | UC-1 |  |  |
+|  | UC-2 |  |  |
+|  | UC-4 |  |  |
+|  | UC-5 |  |  |
 |  | QA-1 |  |  |
 |  | QA-2 |  |  |
 |  | QA-3 |  |  |
