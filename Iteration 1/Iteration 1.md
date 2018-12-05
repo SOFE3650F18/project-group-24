@@ -66,6 +66,21 @@ The element to refine is the entire CMS system, this is due to the fact that the
 |Secruity| insures the security of the server side |
 |Operation Management Module| This module insures the operations done by the client are handled correctly |
 
+![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Context%20Diagram%20for%20CM%20system.PNG)
+
+| Element | Responsibility |
+|---|---|
+|User Workspace| The users device that accesses the client side logic of the website|
+|Application Server|Hosts the server side logic of the web application|
+|Database Server| Contains the relation database of the system|
+|Time Server| External Time Servers|
+
+| Relationship | Description |
+|---|---|
+| Between Application Server and Database server|  Communication with the data base will be conductied using MySQL|
+|Between Application Server and Time Server| Uses the Simple Network Management Protocol (SNMP) | 
+
+
 ### Step 7 - Perform Analysis of current Iteration
 
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
