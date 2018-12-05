@@ -10,7 +10,27 @@ The primary Use Cases will be considered in this iteration:
   UC-5
   
 ### Step 3 - Choose One of More Elements of the System to Refine
+
 ### Step 4 - Choose One of More Design Concepts That Satisfy the Selected Drivers
+|Design Decisions and Location|Rationale and Assumptions|
+|---|---|
+|||
+|||
+|||
+|||
+
 ### Step 5 - Instantiate the Architectural Elements, Allocate Responsibilities and Define Interfaces
+|Design Decisions and Location|Rationale|
+|---|---|
+|||
+|||
+|||
+|||
 ### Step 6 - Sketch Views and Record Design Decisions
+|Element|Responsibility|
+|---|---|
+|||
+|||
+|||
+|||
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
