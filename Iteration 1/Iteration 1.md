@@ -64,3 +64,14 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
+|  | QA-1 |  |  |
+|  | QA-2 |  |  |
+|  | QA-3 |  |  |
+|  | CON-1 |  |  |
+| CON-2 |  |  |  |
+|  | CON-3 |  |  |
+| CON-4 |  |  |  |
+| CON-5 |  |  |  |
+|  |  | CRN-1 |  |
+|  | CRN-2 |  |  |
+| CRN-3 |  |  |  |
