@@ -45,12 +45,18 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 | Element | Responsibility |
 |---|---|
+|Client Prensentation|This layer contains the modules that control the UI|
+|Business Logic CS|This layer contains the modules that perform business logic on the client side|
+|Data Layer CS|This layer contains the modules responisble for communication with the server|
 |Browser| this layer allows user interaction |
 |Browser Process Module| this module is responsible for control flow of the system |
 |Login CS| this layer contains a module used for login on the client side |
 |Search CS| this layer contains a module used for search of courses on the client side |
 |Create CS| this layer contains a module used for creation of courses on the client side |
 |Communcation Moudle| this module is used to connect the client side to the server side |
+|Services SS|This layer contains the modules that controls the interactions with the server|
+|Business Logic SS|This layer contains the modules that perform business logic on the server side|
+|Data Layer SS|This layer contains the modules responisble for accessing data and communication with the time server|
 |Service Interface| allows the server modules to interact with the client side |
 |Login SS| this layer contains a module used for login on the client side |
 |Search SS| this layer contains a module used for search of courses on the client side |
