@@ -45,21 +45,20 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 | Element | Responsibility |
 |---|---|
-|Browser||
-|Browser Process Module||
-|Login CS||
-|Search CS||
-|Create CS||
-|Communcation Moudle||
-|Service Interface||
-|Login SS||
-|Search SS||
-|Create SS||
-|Access Module||
-|Time Server Access Module||
-|Secruity||
-|Operation Management Module||
-|Communication Module||
+|Browser| this layer allows user interaction |
+|Browser Process Module| this module is responsible for control flow of the system |
+|Login CS| this layer contains a module used for login on the client side |
+|Search CS| this layer contains a module used for search of courses on the client side |
+|Create CS| this layer contains a module used for creation of courses on the client side |
+|Communcation Moudle| this module is used to connect the client side to the server side |
+|Service Interface| allows the server modules to interact with the client side |
+|Login SS| this layer contains a module used for login on the client side |
+|Search SS| this layer contains a module used for search of courses on the client side |
+|Create SS| this layer contains a module used for creation of courses on the client side |
+|Access Module| this module access the database insuring that the database is accessed correctly |
+|Time Server Access Module| this module is responsible with communicating with the time servers |
+|Secruity| insures the security of the server side |
+|Operation Management Module| This module insures the operations done by the client are handled correctly |
 
 ### Step 7 - Perform Analysis of current Iteration
 
