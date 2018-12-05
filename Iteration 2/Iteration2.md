@@ -24,10 +24,10 @@ The elements of system that this iteration will refine are the modules identifie
 ### Step 5 - Instantiate the Architectural Elements, Allocate Responsibilities and Define Interfaces
 |Design Decisions and Location|Rationale|
 |---|---|
-|||
-|||
-|||
-|||
+| Create a initial domain model | The entities that relate to the use cases will be indentified and modelled, to create a initial domain model |
+| Map the domain objects to the use cases| Analyze the use cases to find which domain objects are in relation to which use case |
+| Place domain objects in the different layers of the system | This will be done to insure that the functionalities of each module is identified and that the module is placed in the correct layer of the system |
+| Associate Modules to the data layer | Mapping the modules to the data layer encapsulating the functionality |
 ### Step 6 - Sketch Views and Record Design Decisions
 |Element|Responsibility|
 |---|---|
