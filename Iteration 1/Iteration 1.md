@@ -94,9 +94,9 @@ The element to refine is the entire CMS system, this is due to the fact that the
 |  | QA-3 |  |  |
 |  | CON-1 |  | Structuring the system with the three tier architecure will allow developers to adapt,update, and maintain without impacting other areas of the application    |
 | CON-2 |  |  | No Relevant Decision was made  |
-|  | CON-3 |  |  |
+|  | | CON-3 | Selected reference architecture provides compatibilty, and accessibility on any device|
 | CON-4 |  |  | No Relevant Decision was made |
 | CON-5 |  |  | No Relevant Decision was made |
-|  |  | CRN-1 |  |
-|  | CRN-2 |  |  |
+|  |  | CRN-1 | Selection of reference architecure and deployment pattern  |
+|  | CRN-2 |  | Modules that have been considered requires the knowledge of the developers |
 | CRN-3 |  |  | No Relevant Decision was made |
