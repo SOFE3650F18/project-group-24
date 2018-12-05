@@ -77,7 +77,7 @@ The element to refine is the entire CMS system, this is due to the fact that the
 
 | Relationship | Description |
 |---|---|
-| Between Application Server and Database server|  Communication with the data base will be conductied using MySQL|
+| Between Application Server and Database server|  Communication with the data base will be conducted using MySQL|
 |Between Application Server and Time Server| Uses the Simple Network Management Protocol (SNMP) | 
 
 
