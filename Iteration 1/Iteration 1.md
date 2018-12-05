@@ -66,7 +66,7 @@ The element to refine is the entire CMS system, this is due to the fact that the
 |Secruity| insures the security of the server side |
 |Operation Management Module| This module insures the operations done by the client are handled correctly |
 
-![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Context%20Diagram%20for%20CM%20system.PNG)
+![Deployment Diagram]https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%201/Deploy.png)
 
 | Element | Responsibility |
 |---|---|
