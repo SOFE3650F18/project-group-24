@@ -22,3 +22,15 @@ The elements to be refined are below
 
 ### Step 6 - Sketch Views and Record Design Decisions
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
+|Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
+|---|---|---|---|
+|  | QA-1 |  ||
+|  | |QA-2 |
+|  | QA-3 |  ||
+|  | CON-1 |  ||
+| CON-2 |  |  ||
+| CON-4 |  |  ||
+| CON-5 |  |  ||
+|  | CRN-2 |  ||
+| CRN-3 |  |  ||
+
