@@ -29,10 +29,23 @@ The elements of system that this iteration will refine are the modules identifie
 | Place domain objects in the different layers of the system | This will be done to insure that the functionalities of each module is identified and that the module is placed in the correct layer of the system |
 | Associate Modules to the data layer | Mapping the modules to the data layer encapsulating the functionality |
 ### Step 6 - Sketch Views and Record Design Decisions
+
+![Initial Domain Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/Domian.png)
+
+Figure 2.0
+
 |Element|Responsibility|
 |---|---|
 |||
 |||
 |||
 |||
+
+![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/Domain%20Objects.png)
+
+Figure 2.1
+
+![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/LayerB.png)
+Figure 2.2
+
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
