@@ -1,10 +1,10 @@
 # Iteration 3
 ### Step 1 & 2 - Establish Iteration Goal by Selecting Drivers
-For this Iteration we have chosen to focus on QA-2 - New courses and departments are added to the systems static database. The additions are added successfully with minimum 4 hours downtime of the server/month
+For this Iteration we have chosen to focus on QA-2 - New courses and departments are added to the systems static database. The additions are added successfully with minimum 4 hours downtime of the server/month, And QA-3 - system crashes. The system creates back-ups of the entire system to restore partial and complete backups of a specific date
 ### Step 3 - Choose One of More Elements of the System to Refine
 The elements to be refined are below  
 * Course creation element
-* Course information storage element
+* Course information and system storage element
 ### Step 4 - Choose One of More Design Concepts That Satisfy the Selected Drivers
 |Design Decisions and Location|Rationale and Assumptions|
 |---|---|
@@ -24,9 +24,9 @@ The elements to be refined are below
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
-|  | QA-1 |  ||
+|  | QA-1 | ||
 |  | |QA-2 |
-|  | QA-3 |  ||
+|  | | QA-3||
 | CON-2 |  |  ||
 | CON-5 |  |  ||
 |  | CRN-2 |  ||
