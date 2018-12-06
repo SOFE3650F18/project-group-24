@@ -16,7 +16,7 @@
 
 QA-1, QA-2, QA-3 are included as drivers
 #### Constraints
-All Constraints listed in Assignment2/Con.md are included as drivers
+All Constraints are included as drivers
 #### Architectural Concerns
 All architectural concerns are included as drivers
 ### Step 2 - Establish Iteration Goal by Selecting Drivers
