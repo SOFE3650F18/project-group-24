@@ -56,8 +56,8 @@ Figure 2.2
 |Request Manager|Responisble for communication with the server side |
 |Request Services|Responsible for recieve requests for the client side|
 |Login Controller|Controls business logic related to user logins|
-|Course Controller|Constrols business logic related to searching, course creation/deletion|
-|EventDataMapper|Responible for operations based on|
-|TimeServer||
+|Course Controller|Controls business logic related to searching, course creation/deletion|
+|AccessModule|Responible for Accessing data based on Controllers in Business Logic Server Side|
+|TimeServer| Responsible for persistent operations related to time servers|
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
