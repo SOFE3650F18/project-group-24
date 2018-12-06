@@ -18,8 +18,7 @@ The elements of system that this iteration will refine are the modules identifie
 |---|---|
 |Create a Domain Model for the application| Creating a domain model will illustrate and identifity the important entities and relastionships in the system |
 |Identifiy domain objects of function requirements| Each distinct Functional object will be encapsulated in a domain object|
-| Convert Domain Objects into Components | DOmain objects represent a set of Functional objects |
-|  ||
+| Convert Domain Objects into Components | Domain objects represent a set of Functional objects |
 
 ### Step 5 - Instantiate the Architectural Elements, Allocate Responsibilities and Define Interfaces
 |Design Decisions and Location|Rationale|
@@ -46,6 +45,7 @@ Figure 2.0
 Figure 2.1
 
 ![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/LayerB.png)
+
 Figure 2.2
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
