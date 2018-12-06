@@ -81,3 +81,18 @@ LoginController
 * Validity ValidId() -  returns the validity of the login based on the info given  
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
+|Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
+|---|---|---|---|
+|  |  | UC-1 | Modules across the layers and the preliminary interfaces to support this use case has been indentified |
+|  |  | UC-2 | Modules across the layers and the preliminary interfaces to support this use case has been indentified |
+|  |  | UC-4 | Modules across the layers and the preliminary interfaces to support this use case has been indentified  |
+|  |  | UC-5 | Modules across the layers and the preliminary interfaces to support this use case has been indentified |
+|  | QA-1 |  | The elements that support the associated Use case has been identified |
+|  | QA-2 |  | The elements that support the associated Use case has been identified |
+|  | QA-3 |  | The elements that support the associated Use case has been identified |
+|  | CON-1 |  | No relevant decisions were made |
+| CON-2 |  |  | No Relevant decisions were made |
+| CON-4 |  |  | No Relevant Decision were made |
+| CON-5 |  |  | No Relevant Decision were made |
+|  | CRN-2 |  | New Modules that have been considered requires the knowledge of the developers |
+| CRN-3 |  |  | No Relevant Decision was made |
