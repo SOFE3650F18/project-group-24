@@ -65,11 +65,15 @@ The below diagram shows the sequence of components for UC-1 where the user logs 
 ![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-1%20-%20sequence%20diagram.jpg)
 
 Browser UI  
-..*Initilize() - 
-..*DisplayLogin() -   
+* Initilize() - 
+* DisplayLogin() -   
 BrowserUIController  
-RequestManager  
+* Login(User,Pass) - 
+RequestManager 
+* SendRequest() - 
 RequestService  
-LoginController    
+* requestLogin(User,Pass) -
+LoginController  
+* ValidId() -
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
