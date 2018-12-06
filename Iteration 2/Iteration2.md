@@ -51,13 +51,13 @@ Figure 2.2
 
 |Element|Responsibility|
 |---|---|
-|BrowserUI||
-|BrowerUIController||
-|Request Manager||
-|Request Services||
-|Login Controller||
-|Course Controller||
-|EventDataMapper||
+|BrowserUI|Encapsulates the entire frontend of web application this includes the login interface and Web Client interface|
+|BrowerUIController|Responsibile for aqquiring user input data and providing the prensentation layer with necessary information |
+|Request Manager|Responisble for communication with the server side |
+|Request Services|Responsible for recieve requests for the client side|
+|Login Controller|Controls business logic related to user logins|
+|Course Controller|Constrols business logic related to searching, course creation/deletion|
+|EventDataMapper|Responible for operations based on|
 |TimeServer||
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
