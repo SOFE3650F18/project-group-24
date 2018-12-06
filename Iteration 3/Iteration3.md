@@ -8,7 +8,7 @@ The elements to be refined are below
 ### Step 4 - Choose One of More Design Concepts That Satisfy the Selected Drivers
 |Design Decisions and Location|Rationale and Assumptions|
 |---|---|
-|Introduce a create course interface module for users with appropiate premissions| By creating a course creation module, the system will be able to directly add courses into the system while experiencing minimun down time |
+|Introduce a create course interface module for users with appropiate premissions| By creating a course creation module, the system will be able to directly add courses into the system while experiencing minimum down time |
 | Backup module | Introduce a module that will periodcally create a backup of the system or before an update is scheduled, to combat critical errors and minimum down time|
 | System Monitoring module | Monitors the system to ensure it is running without any problems|
 |Back up Servers | Servers that are ready incase other servers are down|
@@ -25,8 +25,8 @@ The elements to be refined are below
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
 | QA-1 | | |No Relevant Decision was made|
-|  | |QA-2 | Introduction of the Create course interface module completly addresses the creation of new courses and departments|
-|  | | QA-3| Introduction of the System Monitoring module completly addresses downtime restrictions and system overloads and crashes|
+|  | |QA-2 | Introduction of the Create course interface module completley addresses the creation of new courses and departments|
+|  | | QA-3| Introduction of the System Monitoring module completley addresses downtime restrictions and system overloads and crashes|
 | CON-2 |  |  | No Relevant Decision was made|
 | CON-5 |  |  | No Relevant Decision was made|
 |  | CRN-2 |  | Modules that have been considered requires the knowledge of developers|
