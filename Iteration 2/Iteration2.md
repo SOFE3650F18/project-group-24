@@ -58,6 +58,17 @@ Figure 2.2
 |Login Controller|Controls business logic related to user logins|
 |Course Controller|Controls business logic related to searching, course creation/deletion|
 |AccessModule|Responible for Accessing data based on Controllers in Business Logic Server Side|
-|TimeServer| Responsible for persistent operations related to time servers|
+|TimeServer| Responsible for persistent operations related to time servers|  
+  
+UC-1 - Login
+The below diagram shows the sequence of components for UC-1 where the user logs in to the system  
+![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-1%20-%20sequence%20diagram.jpg)
+| Method Name | Description |
+|---|---|
+| Browser UI  Initilize()  DisplayLogin |  |
+| BrowserUIController |  |
+| RequestManager |  |
+| RequestService |  |
+| LoginController |  |  
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
