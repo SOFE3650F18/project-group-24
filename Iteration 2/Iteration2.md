@@ -49,4 +49,15 @@ Figure 2.1
 
 Figure 2.2
 
+|Element|Responsibility|
+|---|---|
+|BrowserUI||
+|BrowerUIController||
+|Request Manager||
+|Request Services||
+|Login Controller||
+|Course Controller||
+|EventDataMapper||
+|TimeServer||
+
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
