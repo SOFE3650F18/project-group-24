@@ -24,11 +24,11 @@ The elements to be refined are below
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
-|  | QA-1 | ||
-|  | |QA-2 |
+| QA-1 |  | No Relevant Decision was made |
+|  | |QA-2 | |
 |  | | QA-3||
-| CON-2 |  |  ||
-| CON-5 |  |  ||
-|  | CRN-2 |  ||
-| CRN-3 |  |  ||
+| CON-2 |  |  | No Relevant Decision was made|
+| CON-5 |  |  | No Relevant Decision was made|
+|  | CRN-2 |  | Modules that have been considered requires the knowledge of developers|
+| CRN-3 |  |  | No Relevant Decision was made|
 
