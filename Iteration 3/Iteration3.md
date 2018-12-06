@@ -24,7 +24,7 @@ The elements to be refined are below
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
-| QA-1 | | No Relevant Decision was made|
+| QA-1 | | |No Relevant Decision was made|
 |  | |QA-2 | |
 |  | | QA-3||
 | CON-2 |  |  | No Relevant Decision was made|
