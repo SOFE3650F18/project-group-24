@@ -21,6 +21,11 @@ The elements to be refined are below
 | System Monitoring module | Will scan the system, and servers and detect causes of concern. Depending on the concern the module will either initiate back up servers to handle the error, or  reload using the systems backups generated|
 
 ### Step 6 - Sketch Views and Record Design Decisions
+Refined Domain Diagram
+
+![Refined Domain Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%203/RefinedInitial.png)
+
+
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
