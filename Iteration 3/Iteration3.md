@@ -25,8 +25,8 @@ The elements to be refined are below
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
 | QA-1 | | |No Relevant Decision was made|
-|  | |QA-2 | |
-|  | | QA-3||
+|  | |QA-2 | Introduction of the Create course interface module completly addresses the creation of new courses and departments|
+|  | | QA-3| Introduction of the System Monitoring module completly addresses downtime restrictions and system overloads and crashes|
 | CON-2 |  |  | No Relevant Decision was made|
 | CON-5 |  |  | No Relevant Decision was made|
 |  | CRN-2 |  | Modules that have been considered requires the knowledge of developers|
