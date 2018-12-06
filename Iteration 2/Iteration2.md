@@ -35,10 +35,11 @@ Figure 2.0
 
 |Element|Responsibility|
 |---|---|
-|||
-|||
-|||
-|||
+|User| User login interface|
+|WebClient| Specific User Interface loaded for different types of Users( Student,Lecturer,Administrator)|
+|WebServer| Backend Services of the web application, responisble for handling security, hanlding time, and handling user inputs|
+|Database|Stores Data|
+|Security| Insures application is secure and user type and permissions are valid|
 
 ![Context Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/Domain%20Objects.png)
 
