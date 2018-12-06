@@ -63,9 +63,10 @@ Figure 2.2
 UC-1 - Login
 The below diagram shows the sequence of components for UC-1 where the user logs in to the system  
 ![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-1%20-%20sequence%20diagram.jpg)
+
 | Method Name | Description |
 |---|---|
-| Browser UI  Initilize()  DisplayLogin |  |
+| Browser UI |  |
 | BrowserUIController |  |
 | RequestManager |  |
 | RequestService |  |
