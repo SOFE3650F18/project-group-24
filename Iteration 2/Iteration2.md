@@ -65,15 +65,19 @@ The below diagram shows the sequence of components for UC-1 where the user logs 
 ![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-1%20-%20sequence%20diagram.jpg)
 
 Browser UI  
-* Initilize() - 
-* DisplayLogin() -   
+* Boolean Initilize() - Opens the network representation so the user can interact with it  
+* Validity DisplayLogin() - returns a page based on the validity of the login  
+
 BrowserUIController  
-* Login(User,Pass) - 
+* Validity Login(User,Pass) - Returns the reference based on the user input  
+
 RequestManager 
-* SendRequest() - 
+* Response SendRequest() - Request the login validity from the root region  
+
 RequestService  
-* requestLogin(User,Pass) -
+* Validity requestLogin(User,Pass) - This method recieves a request, and access the service interface  
+
 LoginController  
-* ValidId() -
+* Validity ValidId() -  returns the validity of the login based on the info given  
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
