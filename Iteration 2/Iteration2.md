@@ -80,6 +80,46 @@ RequestService
 LoginController  
 * Validity ValidId() -  returns the validity of the login based on the info given  
 
+UC-4 - Search
+The below diagram shows the sequence of components for UC-4 where the user searchs for a course 
+![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-4%20-%20sequence%20diagram.jpg)
+
+Browser UI  
+* Boolean Initilize() - Opens the network representation so the user can interact with it  
+* Validity DisplayLogin() - returns a page based on the validity of the login  
+
+BrowserUIController  
+* Validity Login(User,Pass) - Returns the reference based on the user input  
+
+RequestManager 
+* Response SendRequest() - Request the login validity from the root region  
+
+RequestService  
+* Validity requestLogin(User,Pass) - This method recieves a request, and access the service interface  
+
+LoginController  
+* Validity ValidId() -  returns the validity of the login based on the info given  
+
+UC-5 - Course Creation
+The below diagram shows the sequence of components for UC-1 where the user logs in to the system  
+![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-5%20-%20sequence%20diagram.jpg)
+
+Browser UI  
+* Boolean Initilize() - Opens the network representation so the user can interact with it  
+* Validity DisplayLogin() - returns a page based on the validity of the login  
+
+BrowserUIController  
+* Validity Login(User,Pass) - Returns the reference based on the user input  
+
+RequestManager 
+* Response SendRequest() - Request the login validity from the root region  
+
+RequestService  
+* Validity requestLogin(User,Pass) - This method recieves a request, and access the service interface  
+
+LoginController  
+* Validity ValidId() -  returns the validity of the login based on the info given
+
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
 |---|---|---|---|
