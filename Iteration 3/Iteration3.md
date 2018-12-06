@@ -27,9 +27,7 @@ The elements to be refined are below
 |  | QA-1 |  ||
 |  | |QA-2 |
 |  | QA-3 |  ||
-|  | CON-1 |  ||
 | CON-2 |  |  ||
-| CON-4 |  |  ||
 | CON-5 |  |  ||
 |  | CRN-2 |  ||
 | CRN-3 |  |  ||
