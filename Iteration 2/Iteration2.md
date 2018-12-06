@@ -82,43 +82,43 @@ LoginController
 
 UC-4 - Search
 The below diagram shows the sequence of components for UC-4 where the user searchs for a course 
-![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-4%20-%20sequence%20diagram.jpg)
+![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-4%20-%20sequence.jpg)
 
 Browser UI  
 * Boolean Initilize() - Opens the network representation so the user can interact with it  
-* Validity DisplayLogin() - returns a page based on the validity of the login  
+* SearchResults search() - returns a page based on the search results 
 
 BrowserUIController  
-* Validity Login(User,Pass) - Returns the reference based on the user input  
+* SearchResults search() - Returns the reference based on the user input  
 
 RequestManager 
-* Response SendRequest() - Request the login validity from the root region  
+* Response SendRequest() - Request the a search of the courses  
 
 RequestService  
-* Validity requestLogin(User,Pass) - This method recieves a request, and access the service interface  
+* SearchResults requestSearch(User,Pass) - This method recieves a request, and access the service interface  
 
-LoginController  
-* Validity ValidId() -  returns the validity of the login based on the info given  
+CourseController  
+* SearchResults searchCourse() -  returns the course that is the result of the search   
 
 UC-5 - Course Creation
-The below diagram shows the sequence of components for UC-1 where the user logs in to the system  
-![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-5%20-%20sequence%20diagram.jpg)
+The below diagram shows the sequence of components for UC-5 where the user creates a course  
+![Sequence Diagram](https://github.com/SOFE3650F18/project-group-24/blob/master/Iteration%202/UC-5%20-%20sequence.jpg)
 
 Browser UI  
 * Boolean Initilize() - Opens the network representation so the user can interact with it  
-* Validity DisplayLogin() - returns a page based on the validity of the login  
+* Boolean createcourse(course) - returns a page based on the updated courses  
 
 BrowserUIController  
-* Validity Login(User,Pass) - Returns the reference based on the user input  
+* Boolean createcourse(User,Pass) - Returns the reference based on the user input  
 
 RequestManager 
-* Response SendRequest() - Request the login validity from the root region  
+* Response SendRequest() - sends the course info to be added  
 
 RequestService  
-* Validity requestLogin(User,Pass) - This method recieves a request, and access the service interface  
+* Boolean createcourse(User,Pass) - This method recieves a request, and access the service interface  
 
-LoginController  
-* Validity ValidId() -  returns the validity of the login based on the info given
+CourseController  
+* Boolean addcourse() -  returns the whether a course was succesfully added
 
 ### Step 7 - Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 |Not Addressed| Partially Addressed|Completly Addressed|Design Made during Iteration|
@@ -130,9 +130,7 @@ LoginController
 |  | QA-1 |  | The elements that support the associated Use case has been identified |
 |  | QA-2 |  | The elements that support the associated Use case has been identified |
 |  | QA-3 |  | The elements that support the associated Use case has been identified |
-|  | CON-1 |  | No relevant decisions were made |
 | CON-2 |  |  | No Relevant decisions were made |
-| CON-4 |  |  | No Relevant Decision were made |
 | CON-5 |  |  | No Relevant Decision were made |
 |  | CRN-2 |  | New Modules that have been considered requires the knowledge of the developers |
 | CRN-3 |  |  | No Relevant Decision was made |
