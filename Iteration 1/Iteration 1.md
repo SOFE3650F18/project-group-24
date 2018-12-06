@@ -94,7 +94,7 @@ The Following Table summarizes the design procress in this iteration
 |  | QA-1 |  | Introduction of browser module to communicate with the user about account details |
 |  | QA-2 |  | Introduction of the access module to communicate with the database will allow course creation |
 |  | QA-3 |  | Introduction of Time server module, and access module to create backups |
-|  | CON-1 |  | Structuring the system with the three tier architecure will allow developers to adapt,update, and maintain without impacting other areas of the application    |
+|  |  | CON-1 | Structuring the system with the three tier architecure will allow developers to adapt,update, and maintain without impacting other areas of the application    |
 | CON-2 |  |  | No Relevant Decision was made  |
 |  | | CON-3 | Selected reference architecture provides compatibilty, and accessibility on any device|
 | CON-4 |  |  | No Relevant Decision was made |
